@@ -15,3 +15,9 @@ No aplicativo é possível:
 - Adicionar em uma playlist
 - Remover dos favoritos
 - Remover de uma playlist
+
+Banco de Dados:
+
+- Firebase
+
+Retirado por conta dos erros
